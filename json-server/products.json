@@ -1,0 +1,56 @@
+{
+  "products": [
+    {
+      "id": "546f01a5-a624-4845-8827-1b2a0ccff745",
+      "creationDate": "2023-07-05T12:54:26.688Z",
+      "productName": "Book",
+      "description": "The story book",
+      "categoryName": "Furnitures",
+      "variants": [
+        {
+          "attributes": [
+            {
+              "attributeName": "color",
+              "listItems": "Red"
+            }
+          ],
+          "price": "150",
+          "discount": "20",
+          "quantity": "5"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "category_1",
+      "categoryName": "Jacket"
+    },
+    {
+      "id": "category_2",
+      "categoryName": "T-shirts"
+    },
+    {
+      "id": "category_3",
+      "categoryName": "Pants"
+    },
+    {
+      "id": "category_4",
+      "categoryName": "Electronics"
+    },
+    {
+      "id": "category_5",
+      "categoryName": "Furnitures"
+    }
+  ],
+  "attributes": [
+    {
+      "id": "attribute_1",
+      "attributeName": "color"
+    },
+    {
+      "id": "attribute_2",
+      "attributeName": "size"
+    }
+  ]
+}
